@@ -304,7 +304,7 @@ MODAL
   visibility: visible;
 }
 
-.modal--open .modal__about
+.modal--open .modal__about,
 .modal--open .modal__contact
  {
   transform: translateX(0%);
